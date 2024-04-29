@@ -1,6 +1,6 @@
 
 <div align="center">
-<h1 align="center">Hello, I´m <a href="https://portafolio-javimp.netlify.app/">Javier Montoya</a> <img align="right" alt="imran pollob" height="160px" src="./src/imran-pollob.png"/></h1>
+<h1 align="center">Hello, I´m <a href="https://portafolio-javimp.netlify.app/">Javier Montoya</a> </h1>
 </div>
 
 - 🔭 I’m currently working on develop.
