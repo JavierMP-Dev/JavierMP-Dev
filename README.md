@@ -2,6 +2,7 @@
 <div align="center">
 
   <h1 align="center">Hello, I´m <a href="https://portafolio-javimp.netlify.app/">Javier Montoya</a> 👋</h1>
+  <img src="./src/hi-small.gif" />
 </div>
 
 - 🔭 I’m currently working on develop.
