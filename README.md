@@ -1,6 +1,6 @@
 
 
-[coment]:  ### 👋 Hello, I´m @JavierMP-Dev, I´m 24 years old.
+[coment]:  #👋 Hello, I´m @JavierMP-Dev, I´m 24 years old.
 
 <div align="center">
 <h1 align="center">Hello, I´m <a href="https://portafolio-javimp.netlify.app/">Javier Montoya</a> 👋</h1>
