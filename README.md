@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  <h1 align="center">Hello, I´m <a href="https://portafolio-javimp.netlify.app/">Javier Montoya.</a> 👋</h1>
+  <h1 align="center">Hello, I´m <a href="https://portafolio-javimp.netlify.app/">Javier Montoya</a> 👋</h1>
  
 </div>
 - 🖥️ I am a computer engineer.
