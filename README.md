@@ -5,6 +5,7 @@
  
 </div>
 - 🖥️ I am a computer engineer
+
 - 🔭 I’m currently working on develop
 - 🌱 I’m currently learning how to resolve
 - 👯 I’m looking to collaborate on my work
