@@ -26,8 +26,7 @@ https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=j
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JavierMP-Dev&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=JavierMP-Dev&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
