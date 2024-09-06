@@ -22,11 +22,6 @@ https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=j
 
  
 
-<br/>  
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JavierMP-Dev&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 
 
