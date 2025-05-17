@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1 align="center">Hello, I´m <a href="https://javier-dev.netlify.app/" > Javier Montoya.</a> 👋</h1>
+  <h1 align="center">Hello, I´m <a href="https://javier-dev.netlify.app/" > Javier Montoya</a> 👋</h1>
 </div>
 
 # 💫 About Me:
